@@ -13,6 +13,20 @@ Just some great links
 
 ## 2. Javascript
 
+#### Jquery
+
+###### Blog Posts
+
+* [How To Build A Custom jQuery Selector](http://www.bennadel.com/blog/1457-how-to-build-a-custom-jquery-selector.htm) by Ben Nadel
+
+###### Books
+* [jQuery Succinctly](http://weeklymirror.com.np/files/download/jQuery_Succinctly.pdf) by Cody Lindley
+
+###### Videos & Video Tutorials 
+* [jQuery Basics](https://teamtreehouse.com/library/jquery-basics) by Treehouse | Paid but worth it
+* [Using jQuery Plugins](https://teamtreehouse.com/library/using-jquery-plugins) by Treehouse | Paid but worth it
+
+
 #### Javascript Testing
 
 ###### Blog Posts
@@ -34,18 +48,6 @@ Just some great links
 * [React For Everyone](https://www.youtube.com/playlist?list=PLLnpHn493BHFfs3Uj5tvx17mXk4B4ws4p) by LevelUpTuts | Free
 
 
-#### Jquery
-
-###### Blog Posts
-
-* [How To Build A Custom jQuery Selector](http://www.bennadel.com/blog/1457-how-to-build-a-custom-jquery-selector.htm) by Ben Nadel
-
-###### Books
-* [jQuery Succinctly](http://weeklymirror.com.np/files/download/jQuery_Succinctly.pdf) by Cody Lindley
-
-###### Videos & Video Tutorials 
-* [jQuery Basics](https://teamtreehouse.com/library/jquery-basics) by Treehouse | Paid but worth it
-* [Using jQuery Plugins](https://teamtreehouse.com/library/using-jquery-plugins) by Treehouse | Paid but worth it
 
 
 ## 3. Git
