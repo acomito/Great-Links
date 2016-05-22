@@ -4,14 +4,14 @@ Just some great links
 
 
 
-## 1. CSS
+# 1. CSS
 
 #### General CSS
 ###### Blog Posts
 * [Mastering CSS Principles: A Comprehensive Guide](https://www.smashingmagazine.com/mastering-css-principles-comprehensive-reference-guide/)
 
 
-## 2. Javascript
+# 2. Javascript
 
 #### Jquery
 
@@ -48,7 +48,7 @@ Just some great links
 * [React For Everyone](https://www.youtube.com/playlist?list=PLLnpHn493BHFfs3Uj5tvx17mXk4B4ws4p) by LevelUpTuts | Free
 
 
-## 3. PHP
+# 3. PHP
 
 #### General
 
@@ -58,7 +58,7 @@ Just some great links
 * [Build a Basic PHP Website](https://teamtreehouse.com/library/build-a-basic-php-website) by Treehouse | paid
 
 
-## 4. Git
+# 4. Git
 
 #### GitHub
 
@@ -68,7 +68,7 @@ Just some great links
 
 
 
-## 5. General Development Stuff 
+# 5. General Development Stuff 
 
 ###### Blog Posts
 * [What is a Port?](http://whatismyipaddress.com/port) by What Is My IP Address
