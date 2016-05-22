@@ -3,7 +3,7 @@ Just some great links
 
 
 
-### CSS
+## CSS
 
 ##### Blog Posts
 * [Mastering CSS Principles: A Comprehensive Guide](https://www.smashingmagazine.com/mastering-css-principles-comprehensive-reference-guide/)
@@ -11,7 +11,7 @@ Just some great links
 
 
 
-### Jquery
+## Jquery
 
 ##### Blog Posts
 
@@ -22,7 +22,7 @@ Just some great links
 
 
 
-### GitHub
+## GitHub
 
 ##### Blog Posts
 * [Markdown Cheatsheet](https://github.com/adam-p/markdown-here/wiki/Markdown-Cheatsheet) by Adam Pritchard
