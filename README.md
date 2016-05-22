@@ -48,7 +48,9 @@ Just some great links
 * [Using jQuery Plugins](https://teamtreehouse.com/library/using-jquery-plugins) by Treehouse | Paid but worth it
 
 
-## 3. GitHub
+## 3. Git
+
+#### GitHub
 
 ###### Blog Posts
 * [Markdown Cheatsheet](https://github.com/adam-p/markdown-here/wiki/Markdown-Cheatsheet) by Adam Pritchard
