@@ -27,6 +27,12 @@ Just some great links
 * [Meteor For Everyone](https://www.youtube.com/playlist?list=PLLnpHn493BHECNl9I8gwos-hEfFrer7TV) by LevelUpTuts | Free
 * [Meteor & React For Everyone](https://www.youtube.com/watch?v=B_HJCmoSvmc) by LevelUpTuts | Free
 
+#### React.js
+
+###### Videos & Video Tutorials 
+* [React For Everyone](https://www.youtube.com/playlist?list=PLLnpHn493BHFfs3Uj5tvx17mXk4B4ws4p) by LevelUpTuts | Free
+
+
 #### Jquery
 
 ###### Blog Posts
