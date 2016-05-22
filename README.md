@@ -48,9 +48,16 @@ Just some great links
 * [React For Everyone](https://www.youtube.com/playlist?list=PLLnpHn493BHFfs3Uj5tvx17mXk4B4ws4p) by LevelUpTuts | Free
 
 
+## 3. PHP
+
+#### General
+
+###### Videos & Video Tutorials 
+
+* [Setup Your Local Development Environment](https://teamtreehouse.com/library/setup-your-local-development-environment-2) by Treehouse | paid
 
 
-## 3. Git
+## 4. Git
 
 #### GitHub
 
