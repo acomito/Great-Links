@@ -3,14 +3,14 @@ Just some great links
 
 
 
-## CSS
+## 1. CSS
 
 #### General CSS
 ###### Blog Posts
 * [Mastering CSS Principles: A Comprehensive Guide](https://www.smashingmagazine.com/mastering-css-principles-comprehensive-reference-guide/)
 
 
-## Javascript
+## 2. Javascript
 
 #### Javascript Testing
 
@@ -41,7 +41,7 @@ Just some great links
 * [Using jQuery Plugins](https://teamtreehouse.com/library/using-jquery-plugins) by Treehouse | Paid but worth it
 
 
-## GitHub
+## 3. GitHub
 
 ###### Blog Posts
 * [Markdown Cheatsheet](https://github.com/adam-p/markdown-here/wiki/Markdown-Cheatsheet) by Adam Pritchard
