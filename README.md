@@ -74,6 +74,17 @@ Just some great links
 * [What is a Port?](http://whatismyipaddress.com/port) by What Is My IP Address
 
 
+# 6. General Front-end Stuff 
+
+###### Blog Posts
+* [20+ Docs and Guides for Front-end Developers (No. 8)](https://www.sitepoint.com/20-docs-guides-front-end-developers-8/) by SitePoint
+
+
+
+# 7. UI/UX 
+
+###### Blog Posts
+
 
 
 
