@@ -1,6 +1,5 @@
-# Great Links for Learning Programming
+# Resources for Learning to Program
 
-Just some great links
 
 
 
@@ -84,6 +83,18 @@ Just some great links
 # 7. UI/UX 
 
 ###### Blog Posts
+
+
+
+# 8. GraphQL
+
+###### Blog Posts
+
+* [GraphQL explained: How GraphQL turns a query into a response](https://medium.com/apollo-stack/graphql-explained-5844742f195e#.hlvzob4t5) by Jonas Helfer
+
+* [GraphQL Directives](https://medium.com/@abhiaiyer/graphql-directives-3dec6106c384#.e2tsm832n) by Abhi Aiyer
+
+* [Tutorial: How to build a GraphQL server](https://medium.com/apollo-stack/tutorial-building-a-graphql-server-cddaa023c035#.cf2rzg4v4) by Jonas Helfer
 
 
 
