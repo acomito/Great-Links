@@ -90,6 +90,8 @@
 
 ###### Blog Posts
 
+* [How do I GraphQL? Top 3 things to know coming from REST](https://medium.com/apollo-stack/how-do-i-graphql-2fcabfc94a01#.tad9a7wsf) by Jonas Helfer
+
 * [GraphQL explained: How GraphQL turns a query into a response](https://medium.com/apollo-stack/graphql-explained-5844742f195e#.hlvzob4t5) by Jonas Helfer
 
 * [GraphQL Directives](https://medium.com/@abhiaiyer/graphql-directives-3dec6106c384#.e2tsm832n) by Abhi Aiyer
