@@ -86,7 +86,7 @@
 
 
 
-# 8. UI/UX 
+# 8. WordPress
 
 ###### Resources
 
