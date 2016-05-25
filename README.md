@@ -51,6 +51,12 @@
 
 #### General
 
+
+#### Books
+
+* [Modernize Your Legacy PHP Application](http://mlaphp.com/) by Paul M. Jones
+
+
 ###### Videos & Video Tutorials 
 
 * [Setup Your Local Development Environment](https://teamtreehouse.com/library/setup-your-local-development-environment-2) by Treehouse | paid
@@ -71,6 +77,9 @@
 
 ###### Blog Posts
 * [What is a Port?](http://whatismyipaddress.com/port) by What Is My IP Address
+* [Refactor vs Rewrite](http://www.geekyboy.com/archives/547) by Adam Culp
+
+
 
 
 # 6. General Front-end Stuff 
