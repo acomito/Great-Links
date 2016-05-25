@@ -86,7 +86,23 @@
 
 
 
-# 8. GraphQL
+# 8. UI/UX 
+
+###### Resources
+
+* [WordPress TV](http://wordpress.tv/) by WordPress.tv
+* [wordcamp](http://central.wordcamp.org/) by wordcamp
+
+###### Blog Posts
+
+* [HOW TO BECOME A RESPECTED WORDPRESS DEVELOPER](http://torquemag.io/2013/07/how-to-become-a-respected-wordpress-developer/) by RIAN KROGSGARD
+* [The WordPress Way (We’re Doing It Wrong)](https://tommcfarlin.com/the-wordpress-way/) by Tom McFarlin
+
+
+
+
+
+# 9. GraphQL
 
 ###### Blog Posts
 
