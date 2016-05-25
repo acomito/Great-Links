@@ -52,7 +52,7 @@
 #### General
 
 
-#### Books
+###### Books
 
 * [Modernize Your Legacy PHP Application](http://mlaphp.com/) by Paul M. Jones
 
