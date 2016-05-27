@@ -4,8 +4,8 @@
 
 # TOC
 
-* [CSS](https://github.com/acomito/Great-Links/blob/master/README.md#2-javascript)
-* [javascript](https://github.com/acomito/Great-Links/blob/master/README.md#2-javascript)
+* [CSS](https://github.com/acomito/Great-Links#1-css)
+* [javascript](https://github.com/acomito/Great-Links#2-javascript)
 * [PHP](https://github.com/acomito/Great-Links/blob/master/README.md#2-javascript)
 * [UI/UX ](https://github.com/acomito/Great-Links/blob/master/README.md#2-javascript)
 * [WordPress](https://github.com/acomito/Great-Links/blob/master/README.md#2-javascript)
