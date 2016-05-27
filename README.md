@@ -1,6 +1,6 @@
 # Resources for Learning to Program
 
-***
+___
 
 # Table of Contents
 
@@ -21,7 +21,7 @@
 * [GraphQL](https://github.com/acomito/Great-Links#9-graphql)
 
 
-*** 
+___
 
 # 1. CSS
 
@@ -29,6 +29,7 @@
 ###### Blog Posts
 * [Mastering CSS Principles: A Comprehensive Guide](https://www.smashingmagazine.com/mastering-css-principles-comprehensive-reference-guide/)
 
+___
 
 # 2. Javascript
 
@@ -72,6 +73,8 @@
 * [React For Everyone](https://www.youtube.com/playlist?list=PLLnpHn493BHFfs3Uj5tvx17mXk4B4ws4p) by LevelUpTuts | Free
 
 
+___
+
 # 3. PHP
 
 #### General
@@ -87,6 +90,7 @@
 * [Setup Your Local Development Environment](https://teamtreehouse.com/library/setup-your-local-development-environment-2) by Treehouse | paid
 * [Build a Basic PHP Website](https://teamtreehouse.com/library/build-a-basic-php-website) by Treehouse | paid
 
+___
 
 # 4. Git
 
@@ -98,6 +102,7 @@
 * [Contributing to Open Source Software with Git](https://scotch.io/tutorials/contributing-to-open-source-software-with-git) by Noman Ur Rehman
 * [Generating an SSH key](https://help.github.com/articles/generating-an-ssh-key/) by GitHub Help
 
+___
 
 # 5. General Development Stuff 
 
@@ -107,19 +112,21 @@
 * [Cross Site Request Forgery ](https://www.youtube.com/watch?v=vrjgD0azkCw) by Jmaxxz
 
 
-
+___
 
 # 6. General Front-end Stuff 
 
 ###### Blog Posts
 * [20+ Docs and Guides for Front-end Developers (No. 8)](https://www.sitepoint.com/20-docs-guides-front-end-developers-8/) by SitePoint
 
-
+___
 
 # 7. UI/UX 
 
 ###### Blog Posts
 
+
+___
 
 # 8. WordPress
 
@@ -134,7 +141,7 @@
 * [The WordPress Way (We’re Doing It Wrong)](https://tommcfarlin.com/the-wordpress-way/) by Tom McFarlin
 
 
-
+___
 
 
 # 9. GraphQL
