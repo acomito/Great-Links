@@ -7,7 +7,7 @@
 * [CSS](https://github.com/acomito/Great-Links#1-css)
 * [javascript](https://github.com/acomito/Great-Links#2-javascript)
   * [jQuery](https://github.com/acomito/Great-Links#jquery)
-  *[Javascript Testing](https://github.com/acomito/Great-Links#javascript-testing)
+  * [Javascript Testing](https://github.com/acomito/Great-Links#javascript-testing)
 
 * [PHP](https://github.com/acomito/Great-Links/blob/master/README.md#2-javascript)
 * [UI/UX ](https://github.com/acomito/Great-Links/blob/master/README.md#2-javascript)
