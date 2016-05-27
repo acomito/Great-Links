@@ -2,7 +2,7 @@
 
 
 
-# TOC
+# Table of Contents
 
 * [CSS](https://github.com/acomito/Great-Links#1-css)
 * [javascript](https://github.com/acomito/Great-Links#2-javascript)
