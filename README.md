@@ -201,6 +201,11 @@ ___
 * [WebPack How to](https://github.com/petehunt/webpack-howto) by petehunt
 
 
+# 11. Non-Dev Dev Tools
+
+* ["Free" icons](http://www.flaticon.com/) by flaticon
+
+
 
 
 
