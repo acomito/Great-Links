@@ -33,6 +33,16 @@ ___
 
 # 2. Javascript
 
+#### General
+
+###### Blog Posts
+
+* [Learning JavaScript Native Functions and How to Use Them](https://scotch.io/tutorials/learning-javascript-native-functions-and-how-to-use-them) by Devan Patel
+* [4 JavaScript Design Patterns You Should Know](https://scotch.io/bar-talk/4-javascript-design-patterns-you-should-know) by Devan Patel
+* [Getting Started with Browserify](https://scotch.io/tutorials/getting-started-with-browserify) by Peleke Sengstacke
+
+
+
 #### Jquery
 
 ###### Blog Posts
