@@ -82,6 +82,9 @@ ___
 * [Meteor For Everyone](https://www.youtube.com/playlist?list=PLLnpHn493BHECNl9I8gwos-hEfFrer7TV) by LevelUpTuts | Free
 * [Meteor & React For Everyone](https://www.youtube.com/watch?v=B_HJCmoSvmc) by LevelUpTuts | Free
 
+###### Best Packages 
+* [AutoForm](https://github.com/aldeed/meteor-autoform#fine-tuning-validation) by Aldeed
+
 #### React.js
 
 ###### Videos & Video Tutorials 
