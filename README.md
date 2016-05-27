@@ -7,8 +7,13 @@
 * [CSS](https://github.com/acomito/Great-Links/blob/master/README.md#2-javascript)
 * [javascript](https://github.com/acomito/Great-Links/blob/master/README.md#2-javascript)
 * [PHP](https://github.com/acomito/Great-Links/blob/master/README.md#2-javascript)
+* [UI/UX ](https://github.com/acomito/Great-Links/blob/master/README.md#2-javascript)
+* [WordPress](https://github.com/acomito/Great-Links/blob/master/README.md#2-javascript)
+* [GitHub](https://github.com/acomito/Great-Links/blob/master/README.md#2-javascript)
+* [GraphQL](https://github.com/acomito/Great-Links/blob/master/README.md#2-javascript)
 
 
+ 
 
 # 1. CSS
 
@@ -106,7 +111,6 @@
 # 7. UI/UX 
 
 ###### Blog Posts
-
 
 
 # 8. WordPress
