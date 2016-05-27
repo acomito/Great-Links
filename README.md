@@ -25,6 +25,11 @@
 * [jQuery Basics](https://teamtreehouse.com/library/jquery-basics) by Treehouse | Paid but worth it
 * [Using jQuery Plugins](https://teamtreehouse.com/library/using-jquery-plugins) by Treehouse | Paid but worth it
 
+###### Other
+
+* [Airbnb JavaScript Style Guide](https://github.com/airbnb/javascript) by Airbnb
+
+
 
 #### Javascript Testing
 
