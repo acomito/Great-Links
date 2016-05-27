@@ -72,6 +72,9 @@ ___
 
 #### Meteor.js
 
+###### Blog Posts
+* [WHY ENTREPRENEURS CHOOSE METEOR?](http://jssolutionsdev.com/blog/why-entrepreneurs-choose-meteor?utm_source=Meteor_forum&utm_medium=entrepreneurs&utm_campaign=blog) by Anna Yaskiv
+
 ###### Videos & Video Tutorials 
 * [User Accounts in Meteor](https://www.youtube.com/playlist?list=PLLnpHn493BHFMTabI7UK28e0e_CwoiYv6) by LevelUpTuts | Free
 * [Intermediate Meteor](https://www.youtube.com/watch?v=BI8IslJHSag&list=PLLnpHn493BHFYZUSK62aVycgcAouqBt7V) by LevelUpTuts | Free
