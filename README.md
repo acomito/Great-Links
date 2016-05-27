@@ -41,6 +41,7 @@ ___
 * [Learning JavaScript Native Functions and How to Use Them](https://scotch.io/tutorials/learning-javascript-native-functions-and-how-to-use-them) by Devan Patel
 * [4 JavaScript Design Patterns You Should Know](https://scotch.io/bar-talk/4-javascript-design-patterns-you-should-know) by Devan Patel
 * [Getting Started with Browserify](https://scotch.io/tutorials/getting-started-with-browserify) by Peleke Sengstacke
+* [Introduction to JavaScript Source Maps](http://www.html5rocks.com/en/tutorials/developertools/sourcemaps/) by html5rocks
 
 
 
@@ -173,7 +174,28 @@ ___
 
 
 
+# 10. Build Tools
 
+#### General
+
+* [Book of Modern frontend tooling](http://tooling.github.io/book-of-modern-frontend-tooling/index.html)
+
+
+
+#### Browserify
+
+###### Blog Posts
+
+* [Browserify Handbook](https://github.com/substack/browserify-handbook) by substack
+* [List of Browserify Transforms](https://github.com/substack/node-browserify/wiki/list-of-transforms) by Jason Maurer
+
+
+
+#### WebPack
+
+###### Blog Posts
+
+* [WebPack How to](https://github.com/petehunt/webpack-howto) by petehunt
 
 
 
