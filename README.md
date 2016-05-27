@@ -84,6 +84,7 @@
 ###### Blog Posts
 * [What is a Port?](http://whatismyipaddress.com/port) by What Is My IP Address
 * [Refactor vs Rewrite](http://www.geekyboy.com/archives/547) by Adam Culp
+* [Cross Site Request Forgery ](https://www.youtube.com/watch?v=vrjgD0azkCw) by Jmaxxz
 
 
 
