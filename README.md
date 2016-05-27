@@ -1,6 +1,6 @@
 # Resources for Learning to Program
 
-
+***
 
 # Table of Contents
 
@@ -21,7 +21,7 @@
 * [GraphQL](https://github.com/acomito/Great-Links#9-graphql)
 
 
- 
+*** 
 
 # 1. CSS
 
