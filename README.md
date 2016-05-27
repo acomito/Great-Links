@@ -8,12 +8,17 @@
 * [javascript](https://github.com/acomito/Great-Links#2-javascript)
   * [jQuery](https://github.com/acomito/Great-Links#jquery)
   * [Javascript Testing](https://github.com/acomito/Great-Links#javascript-testing)
-
-* [PHP](https://github.com/acomito/Great-Links/blob/master/README.md#2-javascript)
-* [UI/UX ](https://github.com/acomito/Great-Links/blob/master/README.md#2-javascript)
-* [WordPress](https://github.com/acomito/Great-Links/blob/master/README.md#2-javascript)
-* [GitHub](https://github.com/acomito/Great-Links/blob/master/README.md#2-javascript)
-* [GraphQL](https://github.com/acomito/Great-Links/blob/master/README.md#2-javascript)
+  * [Meteor.js](https://github.com/acomito/Great-Links#meteorjs)
+  * [React.js](https://github.com/acomito/Great-Links#reactjs)
+* [PHP](https://github.com/acomito/Great-Links#3-php)
+  * [General](https://github.com/acomito/Great-Links#general)
+* [Git](https://github.com/acomito/Great-Links#4-git)
+  * [GitHub](https://github.com/acomito/Great-Links#github)
+* [General Development Stuff](https://github.com/acomito/Great-Links#5-general-development-stuff)
+* [General Front-end Stuff](https://github.com/acomito/Great-Links#6-general-front-end-stuff)
+* [UI/UX ](https://github.com/acomito/Great-Links#7-uiux)
+* [WordPress](https://github.com/acomito/Great-Links#8-wordpress)
+* [GraphQL](https://github.com/acomito/Great-Links#9-graphql)
 
 
  
