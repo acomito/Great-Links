@@ -18,9 +18,15 @@ ___
   * [GitHub](https://github.com/acomito/Great-Links#github)
 * [General Development Stuff](https://github.com/acomito/Great-Links#5-general-development-stuff)
 * [General Front-end Stuff](https://github.com/acomito/Great-Links#6-general-front-end-stuff)
-* [UI/UX ](https://github.com/acomito/Great-Links#7-uiux)
+* [UI/UX & Design](https://github.com/acomito/Great-Links#7-uiux)
 * [WordPress](https://github.com/acomito/Great-Links#8-wordpress)
 * [GraphQL](https://github.com/acomito/Great-Links#9-graphql)
+* [Build Tools](https://github.com/acomito/Great-Links#10-build-tools)
+  * [General](https://github.com/acomito/Great-Links#general-2)
+  * [Browserfy](https://github.com/acomito/Great-Links#browserify)
+  * [WebPack](https://github.com/acomito/Great-Links#webpack)
+  * [Grunt](https://github.com/acomito/Great-Links#9-graphql)
+  * [Gulp](https://github.com/acomito/Great-Links#9-graphql)
 
 
 ___
@@ -154,7 +160,7 @@ ___
 
 ___
 
-# 7. UI/UX 
+# 7. UI/UX & Design
 
 ##### Design
 
@@ -164,6 +170,12 @@ ___
 * [An Open Letter to Designers of Unsolicited Redesigns and Unbuildable Apps](https://blog.intercom.io/the-dribbblisation-of-design/) by Ted Goas
 * [Don’t pay for design leagues – just start designing…](https://davemartinsblog.wordpress.com/2015/01/19/dont-pay-for-design-schoolscoursesleagues-just-start-designing/) by Dave Martin
 * [Sean Halpin's Design Work](http://seanhalpin.io/work)
+
+###### Tools & Stuff
+
+* ["Free" icons](http://www.flaticon.com/) by flaticon
+* [Boxy SVG](https://boxy-svg.com/main.html)
+
 
 ##### UI
 
@@ -232,7 +244,6 @@ ___
 * [List of Browserify Transforms](https://github.com/substack/node-browserify/wiki/list-of-transforms) by Jason Maurer
 
 
-
 #### WebPack
 
 ###### Blog Posts
@@ -240,12 +251,14 @@ ___
 * [WebPack How to](https://github.com/petehunt/webpack-howto) by petehunt
 
 
-# 11. Non-Dev Dev Tools
+#### Grunt
 
-* ["Free" icons](http://www.flaticon.com/) by flaticon
-* [Boxy SVG](https://boxy-svg.com/main.html)
+* Coming Soon...
 
 
+#### Gulp
+
+* Coming Soon...
 
 
 
