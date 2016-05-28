@@ -1,4 +1,4 @@
-# Resources for Learning to Program
+# Great Programming Resources & Links
 
 ___
 
