@@ -4,7 +4,7 @@ ___
 
 # Table of Contents
 
-* [CSS](https://github.com/acomito/Great-Links#1-css)
+* [CSS](https://github.com/acomito/Great-Links/blob/master/CSS.md)
   * [General](https://github.com/acomito/Great-Links#1-css)
   * [Snippets](https://github.com/acomito/Great-Links#1-css)
 * [JavaScript](https://github.com/acomito/Great-Links#2-javascript)
