@@ -7,7 +7,7 @@ ___
 * [CSS](https://github.com/acomito/Great-Links/blob/master/CSS.md)
   * [General](https://github.com/acomito/Great-Links#1-css)
   * [Snippets](https://github.com/acomito/Great-Links#1-css)
-* [JavaScript](https://github.com/acomito/Great-Links#2-javascript)
+* [JavaScript](https://github.com/acomito/Great-Links/blob/master/JavaScript.md)
   * [General](https://github.com/acomito/Great-Links#general) 
   * [jQuery](https://github.com/acomito/Great-Links#jquery)
   * [Testing](https://github.com/acomito/Great-Links#javascript-testing)
@@ -32,22 +32,6 @@ ___
   * [Gulp](https://github.com/acomito/Great-Links#9-graphql)
 
 
-___
-
-# 1. CSS
-
-#### General
-###### Blog Posts
-* [Mastering CSS Principles: A Comprehensive Guide](https://www.smashingmagazine.com/mastering-css-principles-comprehensive-reference-guide/)
-* [Absolute, Relative, Fixed Positioning: How Do They Differ?](https://css-tricks.com/absolute-relative-fixed-positioining-how-do-they-differ/) by Chris Coyier
-* [How Well Do You Understand CSS Positioning?](http://vanseodesign.com/css/css-positioning/) by Steven Bradley | CSS-Tricks
-* [The Overflow Property](https://css-tricks.com/almanac/properties/o/overflow/) by Sara Cope | CSS-Tricks | 2015
-
-
-
-###### Snippets
-* [Pure CSS Content Accordion](http://codepen.io/davidicus/pen/LEBbLX) by David Conner | CodePen
-* [Material Design Box Shadows](https://codepen.io/sdthornton/pen/wBZdXq) by Samuel Thornton | CodePen
 
 
 ___
