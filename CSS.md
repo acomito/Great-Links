@@ -20,7 +20,7 @@ ___
 * [The Overflow Property](https://css-tricks.com/almanac/properties/o/overflow/) by Sara Cope | CSS-Tricks | 2015
 
 #### Snippets
-
+###### CodePen
 * [Pure CSS Content Accordion](http://codepen.io/davidicus/pen/LEBbLX) by David Conner | CodePen
 * [Material Design Box Shadows](https://codepen.io/sdthornton/pen/wBZdXq) by Samuel Thornton | CodePen
 
