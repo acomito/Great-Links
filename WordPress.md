@@ -12,6 +12,7 @@ ___
 * [wordcamp](http://central.wordcamp.org/) by wordcamp
 * [WordPress Template Hierarchy](https://wphierarchy.com/) by Rami Abraham
 * [Wordpress Development Checklist](https://teamtreehouse.com/community/wordpress-development-checklist) by Treehouse Forums
+* [Checklist for Delivering a WordPress Project to a Client](http://code.tutsplus.com/tutorials/checklist-for-delivering-a-wordpress-project--cms-25583) by tutsplus
 
 
 ###### Blog Posts
