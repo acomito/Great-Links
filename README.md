@@ -142,6 +142,10 @@ ___
 
 ###### Blog Posts
 * [20+ Docs and Guides for Front-end Developers (No. 8)](https://www.sitepoint.com/20-docs-guides-front-end-developers-8/) by SitePoint
+* [Facebook fMC 2012: Keynote with Chris Cox](https://www.youtube.com/watch?v=R2kkaDMAJmA) by Facebook | Youtube Video
+
+
+
 
 ___
 
