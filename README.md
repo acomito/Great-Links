@@ -11,7 +11,7 @@ ___
 * [General Development Stuff](https://github.com/acomito/Great-Links#5-general-development-stuff)
 * [General Front-end Stuff](https://github.com/acomito/Great-Links#6-general-front-end-stuff)
 * [UI/UX & Design](https://github.com/acomito/Great-Links#7-uiux)
-* [WordPress](https://github.com/acomito/Great-Links#8-wordpress)
+* [WordPress](https://github.com/acomito/Great-Links/blob/master/WordPress.md)
 * [GraphQL](https://github.com/acomito/Great-Links#9-graphql)
 * [Build Tools](https://github.com/acomito/Great-Links/blob/master/Build-Tools.md)
 
@@ -100,24 +100,7 @@ ___
 
 
 
-___
 
-# 8. WordPress
-
-###### Resources
-
-* [WordPress TV](http://wordpress.tv/) by WordPress.tv
-* [wordcamp](http://central.wordcamp.org/) by wordcamp
-* [WordPress Template Hierarchy](https://wphierarchy.com/) by Rami Abraham
-
-
-###### Blog Posts
-
-* [HOW TO BECOME A RESPECTED WORDPRESS DEVELOPER](http://torquemag.io/2013/07/how-to-become-a-respected-wordpress-developer/) by RIAN KROGSGARD
-* [The WordPress Way (We’re Doing It Wrong)](https://tommcfarlin.com/the-wordpress-way/) by Tom McFarlin
-
-
-___
 
 
 # 9. GraphQL
