@@ -5,6 +5,8 @@ ___
 # Table of Contents
 
 * [CSS](https://github.com/acomito/Great-Links#1-css)
+  * [General](https://github.com/acomito/Great-Links#1-css)
+  * [Snippets](https://github.com/acomito/Great-Links#1-css)
 * [JavaScript](https://github.com/acomito/Great-Links#2-javascript)
   * [General](https://github.com/acomito/Great-Links#general) 
   * [jQuery](https://github.com/acomito/Great-Links#jquery)
@@ -34,7 +36,7 @@ ___
 
 # 1. CSS
 
-#### General CSS
+#### General
 ###### Blog Posts
 * [Mastering CSS Principles: A Comprehensive Guide](https://www.smashingmagazine.com/mastering-css-principles-comprehensive-reference-guide/)
 * [Absolute, Relative, Fixed Positioning: How Do They Differ?](https://css-tricks.com/absolute-relative-fixed-positioining-how-do-they-differ/) by Chris Coyier
@@ -44,7 +46,8 @@ ___
 
 
 ###### Snippets
-* [Pure CSS Content Accordion](http://codepen.io/davidicus/pen/LEBbLX) by David Conner
+* [Pure CSS Content Accordion](http://codepen.io/davidicus/pen/LEBbLX) by David Conner | CodePen
+* [Material Design Box Shadows](https://codepen.io/sdthornton/pen/wBZdXq) by Samuel Thornton | CodePen
 
 
 ___
