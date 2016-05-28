@@ -7,8 +7,10 @@ ___
 
 ## Table of Contents
 
-* [Blog Posts](https://github.com/acomito/Great-Links#1-css)
+* [General](https://github.com/acomito/Great-Links#1-css)
+  * [Blog Posts](https://github.com/acomito/Great-Links#1-css) 
 * [Snippets](https://github.com/acomito/Great-Links#2-javascript)
+  * [CodePen](https://github.com/acomito/Great-Links#1-css)
 
 ___
 
