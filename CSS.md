@@ -1,11 +1,11 @@
 
 [< Back to Main Page](https://github.com/acomito/Great-Links)
 
-#css
+#CSS Resources & Links
 
 ___
 
-# Table of Contents
+## Table of Contents
 
 * [Blog Posts](https://github.com/acomito/Great-Links#1-css)
 * [Snippets](https://github.com/acomito/Great-Links#2-javascript)
