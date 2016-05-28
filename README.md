@@ -149,6 +149,11 @@ ___
 
 ###### Blog Posts
 
+* [THE DRIBBBLISATION OF DESIGN](https://blog.intercom.io/the-dribbblisation-of-design/) by Intercom
+* [An Open Letter to Designers of Unsolicited Redesigns and Unbuildable Apps](https://blog.intercom.io/the-dribbblisation-of-design/) by Ted Goas
+* [Don’t pay for design leagues – just start designing…](https://davemartinsblog.wordpress.com/2015/01/19/dont-pay-for-design-schoolscoursesleagues-just-start-designing/) by Dave Martin
+
+
 
 ___
 
