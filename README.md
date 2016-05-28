@@ -8,7 +8,7 @@ ___
 * [JavaScript](https://github.com/acomito/Great-Links#2-javascript)
   * [General](https://github.com/acomito/Great-Links#general) 
   * [jQuery](https://github.com/acomito/Great-Links#jquery)
-  * [Javascript Testing](https://github.com/acomito/Great-Links#javascript-testing)
+  * [JavaScript Testing](https://github.com/acomito/Great-Links#javascript-testing)
   * [Meteor.js](https://github.com/acomito/Great-Links#meteorjs)
   * [React.js](https://github.com/acomito/Great-Links#reactjs)
 * [PHP](https://github.com/acomito/Great-Links#3-php)
