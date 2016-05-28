@@ -153,6 +153,8 @@ ___
 
 * [WordPress TV](http://wordpress.tv/) by WordPress.tv
 * [wordcamp](http://central.wordcamp.org/) by wordcamp
+* [WordPress Template Hierarchy](https://wphierarchy.com/) by Rami Abraham
+
 
 ###### Blog Posts
 
