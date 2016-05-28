@@ -31,6 +31,10 @@ ___
 ###### Blog Posts
 * [Mastering CSS Principles: A Comprehensive Guide](https://www.smashingmagazine.com/mastering-css-principles-comprehensive-reference-guide/)
 
+###### Snippets
+* [Pure CSS Content Accordion](http://codepen.io/davidicus/pen/LEBbLX) by David Conner
+
+
 ___
 
 # 2. Javascript
