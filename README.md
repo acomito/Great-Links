@@ -30,6 +30,7 @@ ___
 #### General CSS
 ###### Blog Posts
 * [Mastering CSS Principles: A Comprehensive Guide](https://www.smashingmagazine.com/mastering-css-principles-comprehensive-reference-guide/)
+* [Absolute, Relative, Fixed Positioning: How Do They Differ?](https://css-tricks.com/absolute-relative-fixed-positioining-how-do-they-differ/) by Chris Coyier 
 
 ###### Snippets
 * [Pure CSS Content Accordion](http://codepen.io/davidicus/pen/LEBbLX) by David Conner
