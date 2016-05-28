@@ -6,7 +6,7 @@ ___
 
 * [CSS](https://github.com/acomito/Great-Links/blob/master/CSS.md)
 * [JavaScript](https://github.com/acomito/Great-Links/blob/master/JavaScript.md)
-* [PHP](https://github.com/acomito/Great-Links#3-php)
+* [PHP](https://github.com/acomito/Great-Links/blob/master/PHP.md)
 * [Git](https://github.com/acomito/Great-Links#4-git)
 * [General Development Stuff](https://github.com/acomito/Great-Links#5-general-development-stuff)
 * [General Front-end Stuff](https://github.com/acomito/Great-Links#6-general-front-end-stuff)
