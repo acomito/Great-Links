@@ -1,4 +1,4 @@
-[<- Back to Main Page](https://github.com/acomito/Great-Links)
+[<- Back](https://github.com/acomito/Great-Links)
 
 # JavaScript
 
