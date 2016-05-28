@@ -2,7 +2,7 @@
 
 ___
 
-# Table of Contents
+## Table of Contents
 
 * [CSS](https://github.com/acomito/Great-Links/blob/master/CSS.md)
 * [JavaScript](https://github.com/acomito/Great-Links/blob/master/JavaScript.md)
