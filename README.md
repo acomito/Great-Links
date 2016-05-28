@@ -5,7 +5,7 @@ ___
 # Table of Contents
 
 * [CSS](https://github.com/acomito/Great-Links#1-css)
-* [javascript](https://github.com/acomito/Great-Links#2-javascript)
+* [JavaScript](https://github.com/acomito/Great-Links#2-javascript)
   * [General](https://github.com/acomito/Great-Links#general) 
   * [jQuery](https://github.com/acomito/Great-Links#jquery)
   * [Javascript Testing](https://github.com/acomito/Great-Links#javascript-testing)
