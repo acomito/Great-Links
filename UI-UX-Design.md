@@ -1,12 +1,12 @@
 
 
-___
+ UI/UX & Design
+ 
+____
 
-# 7. UI/UX & Design
+#### Design
 
-##### Design
-
-###### Blog Posts
+##### Blog Posts
 
 ####### General
 
@@ -28,22 +28,22 @@ ___
 
 
 
-###### Example Work & Portfolios
+##### Example Work & Portfolios
 
 * [Sean Halpin's Design Work](http://seanhalpin.io/work)
 
-###### Tools Etc.
+##### Tools Etc.
 
 * ["Free" icons](http://www.flaticon.com/) by flaticon
 * [Boxy SVG](https://boxy-svg.com/main.html)
 
-
-##### UI
+____
+#### UI
 
 *  [GoodUI Ideas (awesome snippets of UI wisdom)](http://goodui.org/)
 
-###### Blog Posts
+##### Blog Posts
+____
+#### UX
 
-##### UX
-
-###### Blog Posts
+##### Blog Posts
