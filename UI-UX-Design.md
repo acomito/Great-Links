@@ -16,6 +16,9 @@
 * [An Open Letter to Designers of Unsolicited Redesigns and Unbuildable Apps](https://blog.intercom.io/the-dribbblisation-of-design/) by Ted Goas
 * [Don’t pay for design leagues – just start designing…](https://davemartinsblog.wordpress.com/2015/01/19/dont-pay-for-design-schoolscoursesleagues-just-start-designing/) by Dave Martin
 
+
+
+
 ###### *Guides*
 
 * [The 2014 Guide to Responsive Web Design](http://blog.teamtreehouse.com/modern-field-guide-responsive-web-design) Nick Pettit | Treehouse Blog
@@ -29,6 +32,7 @@
 ##### Example Work & Portfolios
 
 * [Sean Halpin's Design Work](http://seanhalpin.io/work)
+* [This Is Responsive: Patterns and resources for creating responsive web experiences.](http://bradfrost.github.io/this-is-responsive/) by Brad Frost
 
 ##### Tools Etc.
 
