@@ -33,6 +33,9 @@
 
 * [Sean Halpin's Design Work](http://seanhalpin.io/work)
 * [This Is Responsive: Patterns and resources for creating responsive web experiences.](http://bradfrost.github.io/this-is-responsive/) by Brad Frost
+* [Template Flip: Free HTML Templates, PSD Templates and WordPress Themes](https://templateflip.com)
+
+
 
 ##### Tools Etc.
 
