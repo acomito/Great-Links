@@ -26,14 +26,14 @@
 ###### *Lists*
 
 * [6 Beginner “Safety First” Color Guidelines for the Web](http://webdesign.tutsplus.com/tutorials/6-beginner-safety-first-color-guidelines-for-the-web--cms-21462) by Kezz Bracey | EnvatoTuts
-
+* [25+ Free Material Design HTML5 Templates Available for Download](https://templateflip.com/material-design-html5-templates-free-download/) by TemplateFlip.com
 
 
 ##### Example Work & Portfolios
 
 * [Sean Halpin's Design Work](http://seanhalpin.io/work)
 * [This Is Responsive: Patterns and resources for creating responsive web experiences.](http://bradfrost.github.io/this-is-responsive/) by Brad Frost
-* [Template Flip: Free HTML Templates, PSD Templates and WordPress Themes](https://templateflip.com)
+* [Template Flip: Free HTML Templates, PSD Templates and WordPress Themes](https://templateflip.com) | TemplateFlip.com
 
 
 
