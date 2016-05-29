@@ -9,6 +9,7 @@ ___
 ###### Blog Posts
 
 * [Why You Should Avoid Vibrating Color Combinations](http://webdesign.tutsplus.com/articles/why-you-should-avoid-vibrating-color-combinations--cms-25621) by Eli Schiff | EnvatoTuts
+* [The 2014 Guide to Responsive Web Design](http://blog.teamtreehouse.com/modern-field-guide-responsive-web-design) Nick Pettit | Treehouse Blog
 * [Color for Attention and Depth in 60 Seconds](http://webdesign.tutsplus.com/tutorials/color-for-attention-and-depth-in-60-seconds--cms-25229) by Kezz Bracey| EnvatoTuts
 * [6 Beginner “Safety First” Color Guidelines for the Web](http://webdesign.tutsplus.com/tutorials/6-beginner-safety-first-color-guidelines-for-the-web--cms-21462) by Kezz Bracey | EnvatoTuts
 * [THE DRIBBBLISATION OF DESIGN](https://blog.intercom.io/the-dribbblisation-of-design/) by Intercom
