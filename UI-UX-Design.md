@@ -4,7 +4,7 @@
 ======
 
 
-#### Design
+### Design
 
 ##### Blog Posts
 
@@ -36,12 +36,12 @@
 * [Boxy SVG](https://boxy-svg.com/main.html)
 
 ____
-#### UI
+### UI
 
 *  [GoodUI Ideas (awesome snippets of UI wisdom)](http://goodui.org/)
 
 ##### Blog Posts
 ____
-#### UX
+### UX
 
 ##### Blog Posts
