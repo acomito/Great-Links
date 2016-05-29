@@ -10,7 +10,7 @@ ___
 * [Git](https://github.com/acomito/Great-Links#4-git)
 * [General Development Stuff](https://github.com/acomito/Great-Links#5-general-development-stuff)
 * [General Front-end Stuff](https://github.com/acomito/Great-Links#6-general-front-end-stuff)
-* [UI/UX & Design](https://github.com/acomito/Great-Links#7-uiux)
+* [UI/UX & Design](https://github.com/acomito/Great-Links/blob/master/UI-UX-Design.md)
 * [WordPress](https://github.com/acomito/Great-Links/blob/master/WordPress.md)
 * [GraphQL](https://github.com/acomito/Great-Links#9-graphql)
 * [Build Tools](https://github.com/acomito/Great-Links/blob/master/Build-Tools.md)
