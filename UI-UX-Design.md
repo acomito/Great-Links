@@ -8,7 +8,7 @@ ____
 
 ##### Blog Posts
 
-####### General
+###### General
 
 * [Why You Should Avoid Vibrating Color Combinations](http://webdesign.tutsplus.com/articles/why-you-should-avoid-vibrating-color-combinations--cms-25621) by Eli Schiff | EnvatoTuts
 
@@ -18,11 +18,11 @@ ____
 * [An Open Letter to Designers of Unsolicited Redesigns and Unbuildable Apps](https://blog.intercom.io/the-dribbblisation-of-design/) by Ted Goas
 * [Don’t pay for design leagues – just start designing…](https://davemartinsblog.wordpress.com/2015/01/19/dont-pay-for-design-schoolscoursesleagues-just-start-designing/) by Dave Martin
 
-####### Guides
+###### Guides
 
 * [The 2014 Guide to Responsive Web Design](http://blog.teamtreehouse.com/modern-field-guide-responsive-web-design) Nick Pettit | Treehouse Blog
 
-####### Lists
+###### Lists
 
 * [6 Beginner “Safety First” Color Guidelines for the Web](http://webdesign.tutsplus.com/tutorials/6-beginner-safety-first-color-guidelines-for-the-web--cms-21462) by Kezz Bracey | EnvatoTuts
 
