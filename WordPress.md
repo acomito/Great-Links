@@ -33,7 +33,9 @@ ___
 * [Integrating Disqus Into WordPress](http://code.tutsplus.com/tutorials/integrating-disqus-into-wordpress--wp-25799) by tutsplus
 * [Disqus Setup Instructions for WordPress](https://disqus.com/admin/wordpress/) by disqus
 
+###### query monitor
 
+* [query monitor](https://wordpress.org/plugins/query-monitor/)
 
 
 ___
