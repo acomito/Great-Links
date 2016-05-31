@@ -30,6 +30,10 @@ ___
 ###### disqus
 
 
-* [The WordPress Way (We’re Doing It Wrong)](https://tommcfarlin.com/the-wordpress-way/) by Tom McFarlin
+* [Integrating Disqus Into WordPress](http://code.tutsplus.com/tutorials/integrating-disqus-into-wordpress--wp-25799) by tutsplus
+* [Disqus Setup Instructions for WordPress](https://disqus.com/admin/wordpress/) by disqus
+
+
+
 
 ___
