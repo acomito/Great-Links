@@ -4,6 +4,24 @@
 ======
 
 
+A Comprehensive Introduction to Color in Design
+http://webdesign.tutsplus.com/articles/a-comprehensive-introduction-to-color-in-design--cms-26480
+Ed Wassermann | Envato Tuts
+
+
+http://code.tutsplus.com/tutorials/the-30-css-selectors-you-must-memorize--net-16048
+The 30 CSS Selectors You Must Memorize
+Jeffrey Way | Envato Tuts
+
+An Introduction to the Basics of Modern CSS Buttons
+https://www.sitepoint.com/modern-css-buttons/
+Jack Rometty | SitePoint
+
+
+9 Quick Wins for Halfway-Decent Design
+http://webdesign.tutsplus.com/articles/9-quick-wins-for-halfway-decent-design--cms-19444
+avid Kadavy | Envato Tuts
+
 ### Design
 
 ##### Blog Posts
