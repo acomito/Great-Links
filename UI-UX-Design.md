@@ -11,9 +11,7 @@
 
 
 
-* [brand colors](http://brandcolors.net/) from brandcolors.net
-* [Color encyclopedia : Information and conversion.](http://www.colorhexa.com/) from colorhexa.com
-* [LOLCOLORS Curated color palette inspiration.](http://www.lolcolors.com/) from LOL Colors
+
 
 
 
@@ -68,10 +66,19 @@
 ____
 ### UI
 
+##### Websites
 *  [GoodUI Ideas (awesome snippets of UI wisdom)](http://goodui.org/)
+* [brand colors](http://brandcolors.net/) from brandcolors.net
+* [Color encyclopedia : Information and conversion.](http://www.colorhexa.com/) from colorhexa.com
+* [LOLCOLORS Curated color palette inspiration.](http://www.lolcolors.com/) from LOL Colors
 
 ##### Blog Posts
 ____
 ### UX
 
 ##### Blog Posts
+
+
+
+
+
