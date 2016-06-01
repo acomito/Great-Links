@@ -28,9 +28,15 @@ ___
 ##### CodePen
 * [Pure CSS Content Accordion](http://codepen.io/davidicus/pen/LEBbLX) by David Conner | CodePen
 * [Material Design Box Shadows](https://codepen.io/sdthornton/pen/wBZdXq) by Samuel Thornton | CodePen
+* [Flexbox Patterns](http://www.flexboxpatterns.com/home/) by CJ Cenizal
+
 
 ### Flexbox
 ##### CodePen
 * [A Complete Guide to Flexbox](https://css-tricks.com/snippets/css/a-guide-to-flexbox/) CSS Tricks
 * [A Visual Guide to CSS3 Flexbox Properties](https://scotch.io/tutorials/a-visual-guide-to-css3-flexbox-properties) Scotch.io
 * [Flexbox Playground](https://demos.scotch.io/visual-guide-to-css3-flexbox-flexbox-playground/demos/) Scotch.io
+* [Flexbox Patterns](http://www.flexboxpatterns.com/home/) by CJ Cenizal
+
+
+
