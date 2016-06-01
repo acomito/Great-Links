@@ -1,4 +1,4 @@
-https://kapeli.com/dash
+
 
 
 
@@ -21,8 +21,8 @@ https://kapeli.com/dash
 * [?](https://www.namecheap.com/support/knowledgebase/article.aspx/181/27/how-do-i-upload-my-site) by NameCheap
 * [The 7 Cross-Browser Testing Tools You Need in 2016](https://www.sitepoint.com/the-7-cross-browser-testing-tools-you-need-in-2016/) by Ada Ivanoff | SitePoint
 
-
-
+###### Tools & Apps
+* [Dash](https://kapeli.com/dash) by Dash App (great tool for documentation)
 
 
 
