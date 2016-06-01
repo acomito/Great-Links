@@ -11,9 +11,9 @@
 
 
 
-
-
-
+* [brand colors](http://brandcolors.net/) from brandcolors.net
+* [Color encyclopedia : Information and conversion.](http://www.colorhexa.com/) from colorhexa.com
+* [LOLCOLORS Curated color palette inspiration.](http://www.lolcolors.com/) from LOL Colors
 
 
 
