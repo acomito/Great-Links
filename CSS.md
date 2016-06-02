@@ -39,4 +39,5 @@ ___
 * [Flexbox Patterns](http://www.flexboxpatterns.com/home/) by CJ Cenizal
 
 
-
+* [Box-Sizing: The Secret to Simple CSS Layouts](http://blog.teamtreehouse.com/box-sizing-secret-simple-css-layouts) by Treehouse Blog
+* [Take Control of the Box Model with box-sizing](http://blog.teamtreehouse.com/take-control-of-the-box-model-with-box-sizing) Treehouse Blog
