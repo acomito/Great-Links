@@ -19,3 +19,8 @@
 * Coming Soon....
 
 ___
+
+
+
+https://scotch.io/tutorials/how-to-send-a-pull-request-using-the-github-desktop-client
+https://www.atlassian.com/git/tutorials/merging-vs-rebasing/conceptual-overview
