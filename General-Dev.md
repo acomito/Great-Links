@@ -38,5 +38,11 @@
 
 ###### Blog Posts
 
+How Browsers Work: Behind the scenes of modern web browsers
+http://www.html5rocks.com/en/tutorials/internals/howbrowserswork/#Introduction
+By Tali Garsiel and Paul Irish | html5rocks
 
 
+DOM Enlightenment
+http://domenlightenment.com/
+By Cody L.
