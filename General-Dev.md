@@ -46,3 +46,7 @@ By Tali Garsiel and Paul Irish | html5rocks
 DOM Enlightenment
 http://domenlightenment.com/
 By Cody L.
+
+
+
+http://gs.statcounter.com/
