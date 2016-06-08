@@ -79,6 +79,7 @@ ____
 ##### Blog Posts
 
 
-
+A beginners guid eto wireframing:
+http://webdesign.tutsplus.com/articles/a-beginners-guide-to-wireframing--webdesign-7399
 
 
