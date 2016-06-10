@@ -77,6 +77,24 @@ ___
 ###### Videos & Video Tutorials 
 * [React For Everyone](https://www.youtube.com/playlist?list=PLLnpHn493BHFfs3Uj5tvx17mXk4B4ws4p) by LevelUpTuts | Free
 
+
+___
+
+#### Angular.js v1
+
+###### Blog Posts
+* [Convert Angular HTTP.get function to a service (Factory vs Service vs Provider](http://stackoverflow.com/questions/13937318/convert-angular-http-get-function-to-a-service) StackOverflow
+
+___
+
+
+#### Angular.js v2
+
+###### Videos & Video Tutorials 
+* [React For Everyone](https://www.youtube.com/playlist?list=PLLnpHn493BHFfs3Uj5tvx17mXk4B4ws4p) by LevelUpTuts | Free
+
+___
+
 #### Node.js
 
 * Coming Soon....
