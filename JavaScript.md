@@ -85,13 +85,17 @@ ___
 ###### Blog Posts
 * [Convert Angular HTTP.get function to a service (Factory vs Service vs Provider](http://stackoverflow.com/questions/13937318/convert-angular-http-get-function-to-a-service) StackOverflow
 
+###### Dev Tools
+* [How-to Sublime Angular Syntax highlighting](http://stackoverflow.com/questions/30695686/sublimetext-3-angularjs-syntax-highlighting-html) StackOverflow
 ___
 
 
 #### Angular2
 
 ###### Videos & Video Tutorials 
-* [React For Everyone](https://www.youtube.com/playlist?list=PLLnpHn493BHFfs3Uj5tvx17mXk4B4ws4p) by LevelUpTuts | Free
+ 
+
+
 
 ___
 
