@@ -80,7 +80,7 @@ ___
 
 ___
 
-#### Angular.js v1
+#### Angular1
 
 ###### Blog Posts
 * [Convert Angular HTTP.get function to a service (Factory vs Service vs Provider](http://stackoverflow.com/questions/13937318/convert-angular-http-get-function-to-a-service) StackOverflow
@@ -88,7 +88,7 @@ ___
 ___
 
 
-#### Angular.js v2
+#### Angular2
 
 ###### Videos & Video Tutorials 
 * [React For Everyone](https://www.youtube.com/playlist?list=PLLnpHn493BHFfs3Uj5tvx17mXk4B4ws4p) by LevelUpTuts | Free
@@ -98,3 +98,11 @@ ___
 #### Node.js
 
 * Coming Soon....
+* http://openmymind.net/2012/2/3/Node-Require-and-Exports/
+
+
+
+https://scotch.io/tutorials/debugging-javascript-with-chrome-devtools-breakpoints
+https://scotch.io/tutorials/creating-a-single-page-todo-app-with-node-and-angular
+http://www.mondeil.fr/Documents/eBooks/Succintly/AngularJS_Succinctly.pdf
+https://scotch.io/tutorials/build-a-real-time-scheduling-app-using-angularjs-and-firebase
