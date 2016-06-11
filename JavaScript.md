@@ -104,8 +104,9 @@ ___
 * Coming Soon....
 * http://openmymind.net/2012/2/3/Node-Require-and-Exports/
 
-
-
+http://www.hongkiat.com/blog/free-angular-ebooks/
+https://github.com/vhf/free-programming-books/blob/master/javascript-frameworks-resources.md
+http://www.fromdev.com/2015/06/angular-js-tutorials-pdf.html
 https://scotch.io/tutorials/debugging-javascript-with-chrome-devtools-breakpoints
 https://scotch.io/tutorials/creating-a-single-page-todo-app-with-node-and-angular
 http://www.mondeil.fr/Documents/eBooks/Succintly/AngularJS_Succinctly.pdf
