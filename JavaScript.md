@@ -95,6 +95,9 @@ ___
 * [Creating a Single Page Todo App with Node and Angular](https://scotch.io/tutorials/creating-a-single-page-todo-app-with-node-and-angular) Chris Sevilleja | Scotch.io
 
 http://www.codelord.net/2015/11/11/angular-controlleras-when-should-you-use-scope/
+http://www.codelord.net/2015/09/30/angular-2-preparation-controller-code-smells/
+http://www.codelord.net/2015/10/07/angular-2-preparation-killing-controllers/
+https://toddmotto.com/digging-into-angulars-controller-as-syntax/
 https://www.ng-book.com/p/The-Digest-Loop-and-apply/
 
 ###### Books
