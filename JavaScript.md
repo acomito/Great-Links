@@ -6,11 +6,11 @@ ___
 
 # Table of Contents
 
-* [General](https://github.com/acomito/Great-Links/blob/master/CSS.md)
-* [Jquery](https://github.com/acomito/Great-Links/blob/master/JavaScript.md)
-* [Testing](https://github.com/acomito/Great-Links/blob/master/JavaScript.md)
-* [Meteor.js](https://github.com/acomito/Great-Links/blob/master/JavaScript.md)
-* [React.js](https://github.com/acomito/Great-Links/blob/master/JavaScript.md)
+* [General](https://github.com/acomito/Great-Links/blob/master/JavaScript.md#general)
+* [Jquery](https://github.com/acomito/Great-Links/blob/master/JavaScript.md#jquery)
+* [Testing](https://github.com/acomito/Great-Links/blob/master/JavaScript.md#testing)
+* [Meteor.js](https://github.com/acomito/Great-Links/blob/master/JavaScript.md#meteorjs)
+* [React.js](https://github.com/acomito/Great-Links/blob/master/JavaScript.md#reactjs)
 * [Angular 1](https://github.com/acomito/Great-Links/blob/master/JavaScript.md#angular1)
 * [Angular 2](https://github.com/acomito/Great-Links/blob/master/JavaScript.md#angular2)
 * [Node.js](https://github.com/acomito/Great-Links/blob/master/JavaScript.md)
