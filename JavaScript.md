@@ -11,6 +11,8 @@ ___
 * [Testing](https://github.com/acomito/Great-Links/blob/master/JavaScript.md)
 * [Meteor.js](https://github.com/acomito/Great-Links/blob/master/JavaScript.md)
 * [React.js](https://github.com/acomito/Great-Links/blob/master/JavaScript.md)
+* [Angular 1](https://github.com/acomito/Great-Links/blob/master/JavaScript.md#angular1)
+* [Angular 2](https://github.com/acomito/Great-Links/blob/master/JavaScript.md#angular2)
 * [Node.js](https://github.com/acomito/Great-Links/blob/master/JavaScript.md)
 
 
