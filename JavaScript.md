@@ -92,6 +92,8 @@ ___
 * [110+ Best Free Angular JS Tutorials PDF & eBooks To Learn](http://www.fromdev.com/2015/06/angular-js-tutorials-pdf.html)
 * [Creating a Single Page Todo App with Node and Angular](https://scotch.io/tutorials/creating-a-single-page-todo-app-with-node-and-angular) Chris Sevilleja | Scotch.io
 
+https://www.ng-book.com/p/The-Digest-Loop-and-apply/
+
 ###### Books
 * [Angular Succinctly](http://www.mondeil.fr/Documents/eBooks/Succintly/AngularJS_Succinctly.pdf) by Frederik Dietz | Syncfusion
 
