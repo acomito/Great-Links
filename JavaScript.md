@@ -94,6 +94,7 @@ ___
 * [110+ Best Free Angular JS Tutorials PDF & eBooks To Learn](http://www.fromdev.com/2015/06/angular-js-tutorials-pdf.html)
 * [Creating a Single Page Todo App with Node and Angular](https://scotch.io/tutorials/creating-a-single-page-todo-app-with-node-and-angular) Chris Sevilleja | Scotch.io
 
+http://www.codelord.net/2015/11/11/angular-controlleras-when-should-you-use-scope/
 https://www.ng-book.com/p/The-Digest-Loop-and-apply/
 
 ###### Books
