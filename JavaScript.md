@@ -84,8 +84,18 @@ ___
 
 ###### Blog Posts
 * [Convert Angular HTTP.get function to a service (Factory vs Service vs Provider](http://stackoverflow.com/questions/13937318/convert-angular-http-get-function-to-a-service) StackOverflow
+* [Making API Calls in AngularJS using Angular’s $http service
+](https://www.sitepoint.com/api-calls-angularjs-http-service/) by Tanay Pant | SitePoint
+* [Do You Like Your Angular Controllers with or without Sugar?](https://johnpapa.net/do-you-like-your-angular-controllers-with-or-without-sugar/) by big papa
+* [110+ Best Free Angular JS Tutorials PDF & eBooks To Learn](http://www.fromdev.com/2015/06/angular-js-tutorials-pdf.html)
+* [Creating a Single Page Todo App with Node and Angular](https://scotch.io/tutorials/creating-a-single-page-todo-app-with-node-and-angular) Chris Sevilleja | Scotch.io
 
-###### Dev Tools
+###### Books
+* [Angular Succinctly](http://www.mondeil.fr/Documents/eBooks/Succintly/AngularJS_Succinctly.pdf) by Frederik Dietz | Syncfusion
+
+
+
+###### Dev Tools - Angular
 * [How-to Sublime Angular Syntax highlighting](http://stackoverflow.com/questions/30695686/sublimetext-3-angularjs-syntax-highlighting-html) StackOverflow
 ___
 
@@ -104,10 +114,8 @@ ___
 * Coming Soon....
 * http://openmymind.net/2012/2/3/Node-Require-and-Exports/
 
-http://www.hongkiat.com/blog/free-angular-ebooks/
+
 https://github.com/vhf/free-programming-books/blob/master/javascript-frameworks-resources.md
-http://www.fromdev.com/2015/06/angular-js-tutorials-pdf.html
 https://scotch.io/tutorials/debugging-javascript-with-chrome-devtools-breakpoints
-https://scotch.io/tutorials/creating-a-single-page-todo-app-with-node-and-angular
-http://www.mondeil.fr/Documents/eBooks/Succintly/AngularJS_Succinctly.pdf
+
 https://scotch.io/tutorials/build-a-real-time-scheduling-app-using-angularjs-and-firebase
