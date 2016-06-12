@@ -23,9 +23,9 @@ ___
 
 ###### Blog Posts
 
-* [Learning JavaScript Native Functions and How to Use Them](https://scotch.io/tutorials/learning-javascript-native-functions-and-how-to-use-them) by Devan Patel
-* [4 JavaScript Design Patterns You Should Know](https://scotch.io/bar-talk/4-javascript-design-patterns-you-should-know) by Devan Patel
-* [Getting Started with Browserify](https://scotch.io/tutorials/getting-started-with-browserify) by Peleke Sengstacke
+* [Learning JavaScript Native Functions and How to Use Them](https://scotch.io/tutorials/learning-javascript-native-functions-and-how-to-use-them) by Devan Patel | Scotch.io
+* [4 JavaScript Design Patterns You Should Know](https://scotch.io/bar-talk/4-javascript-design-patterns-you-should-know) by Devan Patel | Scotch.io
+* [Getting Started with Browserify](https://scotch.io/tutorials/getting-started-with-browserify) by Peleke Sengstacke | Scotch.io
 * [Introduction to JavaScript Source Maps](http://www.html5rocks.com/en/tutorials/developertools/sourcemaps/) by html5rocks
 * [Using Web Workers to Speed-Up Your JavaScript Applications](http://blog.teamtreehouse.com/using-web-workers-to-speed-up-your-javascript-applications) by Matt West | Treehouse Blog
 * [The Basics of Web Workers](http://www.html5rocks.com/en/tutorials/workers/basics/) by html5rocks
