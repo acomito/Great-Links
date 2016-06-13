@@ -99,6 +99,9 @@ http://www.codelord.net/2015/09/30/angular-2-preparation-controller-code-smells/
 http://www.codelord.net/2015/10/07/angular-2-preparation-killing-controllers/
 https://toddmotto.com/digging-into-angulars-controller-as-syntax/
 https://www.ng-book.com/p/The-Digest-Loop-and-apply/
+https://www.smashingmagazine.com/2014/10/introduction-to-unit-testing-in-angularjs/
+
+
 
 ###### Books
 * [Angular Succinctly](http://www.mondeil.fr/Documents/eBooks/Succintly/AngularJS_Succinctly.pdf) by Frederik Dietz | Syncfusion
