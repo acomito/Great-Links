@@ -100,7 +100,7 @@ http://www.codelord.net/2015/10/07/angular-2-preparation-killing-controllers/
 https://toddmotto.com/digging-into-angulars-controller-as-syntax/
 https://www.ng-book.com/p/The-Digest-Loop-and-apply/
 https://www.smashingmagazine.com/2014/10/introduction-to-unit-testing-in-angularjs/
-
+https://gist.github.com/rikukissa/dcb422eb3b464cc184ae
 
 
 ###### Books
