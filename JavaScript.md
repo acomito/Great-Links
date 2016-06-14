@@ -128,7 +128,11 @@ ___
 * http://openmymind.net/2012/2/3/Node-Require-and-Exports/
 
 
+
+
+
+TO DO
 https://github.com/vhf/free-programming-books/blob/master/javascript-frameworks-resources.md
 https://scotch.io/tutorials/debugging-javascript-with-chrome-devtools-breakpoints
-
+https://egghead.io/courses/how-to-write-an-open-source-javascript-library
 https://scotch.io/tutorials/build-a-real-time-scheduling-app-using-angularjs-and-firebase
