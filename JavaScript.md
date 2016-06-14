@@ -85,6 +85,7 @@ ___
 
 http://reactjsprogram.teachable.com/courses/reactjsfundamentals
 https://facebook.github.io/react/docs/tutorial.html
+http://www.austinstory.com/what-is-redux/
 ___
 
 #### Angular1
