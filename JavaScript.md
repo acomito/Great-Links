@@ -149,6 +149,7 @@ ___
 
 
 TO DO
+https://medium.freecodecamp.com/javascript-modules-a-beginner-s-guide-783f7d7a5fcc#.b4zg35ca3
 http://blog.nerdeez.com/?p=172
 https://github.com/vhf/free-programming-books/blob/master/javascript-frameworks-resources.md
 https://scotch.io/tutorials/debugging-javascript-with-chrome-devtools-breakpoints
