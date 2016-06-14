@@ -14,6 +14,7 @@ ___
 * [Angular 1](https://github.com/acomito/Great-Links/blob/master/JavaScript.md#angular1)
 * [Angular 2](https://github.com/acomito/Great-Links/blob/master/JavaScript.md#angular2)
 * [Node.js](https://github.com/acomito/Great-Links/blob/master/JavaScript.md)
+* [React Native](https://github.com/acomito/Great-Links/blob/master/JavaScript.md)
 
 
 
@@ -126,6 +127,15 @@ ___
 
 * Coming Soon....
 * http://openmymind.net/2012/2/3/Node-Require-and-Exports/
+
+
+
+___
+
+#### React Native
+
+* https://medium.com/android-news/blueprint-to-becoming-a-react-native-developer-6cad2b894887#.eqwwzmcl9
+* https://www.youtube.com/watch?v=xRK0SYSgVF0
 
 
 
