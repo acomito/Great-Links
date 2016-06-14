@@ -15,6 +15,7 @@ ___
 * [Angular 2](https://github.com/acomito/Great-Links/blob/master/JavaScript.md#angular2)
 * [Node.js](https://github.com/acomito/Great-Links/blob/master/JavaScript.md)
 * [React Native](https://github.com/acomito/Great-Links/blob/master/JavaScript.md)
+* [es6/es2015](https://github.com/acomito/Great-Links/blob/master/JavaScript.md)
 
 
 
@@ -82,7 +83,8 @@ ___
 ###### Videos & Video Tutorials 
 * [React For Everyone](https://www.youtube.com/playlist?list=PLLnpHn493BHFfs3Uj5tvx17mXk4B4ws4p) by LevelUpTuts | Free
 
-
+http://reactjsprogram.teachable.com/courses/reactjsfundamentals
+https://facebook.github.io/react/docs/tutorial.html
 ___
 
 #### Angular1
@@ -137,6 +139,10 @@ ___
 * https://medium.com/android-news/blueprint-to-becoming-a-react-native-developer-6cad2b894887#.eqwwzmcl9
 * https://www.youtube.com/watch?v=xRK0SYSgVF0
 
+
+#### es6 / es2015
+
+* https://babeljs.io/docs/learn-es2015/
 
 
 
