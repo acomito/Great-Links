@@ -149,6 +149,7 @@ ___
 
 
 TO DO
+http://blog.nerdeez.com/?p=172
 https://github.com/vhf/free-programming-books/blob/master/javascript-frameworks-resources.md
 https://scotch.io/tutorials/debugging-javascript-with-chrome-devtools-breakpoints
 https://egghead.io/courses/how-to-write-an-open-source-javascript-library
