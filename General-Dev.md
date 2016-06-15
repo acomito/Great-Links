@@ -38,22 +38,22 @@
 
 ###### Blog Posts
 
+
+
+TO ADD
+
 How Browsers Work: Behind the scenes of modern web browsers
 http://www.html5rocks.com/en/tutorials/internals/howbrowserswork/#Introduction
 By Tali Garsiel and Paul Irish | html5rocks
-
 
 DOM Enlightenment
 http://domenlightenment.com/
 By Cody L.
 
 https://www.digitalocean.com/community/tutorials/ssh-essentials-working-with-ssh-servers-clients-and-keys
-
 http://gs.statcounter.com/
 http://regexr.com/
 http://xunitpatterns.com/
-
-
 https://www.learnenough.com/command-line-tutorial
 https://github.com/matiassingers/awesome-readme
 http://guides.rubyonrails.org/getting_started.html
@@ -61,3 +61,4 @@ https://www.railstutorial.org/book/beginning
 http://conqueringthecommandline.com/book
 http://ricostacruz.com/cheatsheets/
 https://github.com/matiassingers/awesome-readme
+https://support.apple.com/en-us/HT204014
