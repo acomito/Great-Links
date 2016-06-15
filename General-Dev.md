@@ -55,6 +55,7 @@ http://xunitpatterns.com/
 
 
 https://www.learnenough.com/command-line-tutorial
+https://github.com/matiassingers/awesome-readme
 http://guides.rubyonrails.org/getting_started.html
 https://www.railstutorial.org/book/beginning
 http://conqueringthecommandline.com/book
