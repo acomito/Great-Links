@@ -58,3 +58,4 @@ https://www.learnenough.com/command-line-tutorial
 http://guides.rubyonrails.org/getting_started.html
 https://www.railstutorial.org/book/beginning
 http://conqueringthecommandline.com/book
+http://ricostacruz.com/cheatsheets/
