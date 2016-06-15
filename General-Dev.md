@@ -62,3 +62,7 @@ http://conqueringthecommandline.com/book
 http://ricostacruz.com/cheatsheets/
 https://github.com/matiassingers/awesome-readme
 https://support.apple.com/en-us/HT204014
+https://www.youtube.com/watch?v=L5GVOFAYi8k
+http://www.codelitt.com/blog/my-first-10-minutes-on-a-server-primer-for-securing-ubuntu/
+http://queue.acm.org/detail.cfm?id=2949831
+https://www.youtube.com/watch?v=4AbOV1M7PA4
