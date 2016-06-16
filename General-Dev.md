@@ -63,6 +63,8 @@ http://guides.rubyonrails.org/getting_started.html
 https://www.railstutorial.org/book/beginning
 http://conqueringthecommandline.com/book
 http://ricostacruz.com/cheatsheets/
+https://www.youtube.com/watch?v=8aGhZQkoFbQ
+http://evanhahn.com/make-an-npm-baby/
 https://github.com/matiassingers/awesome-readme
 https://support.apple.com/en-us/HT204014
 https://www.youtube.com/watch?v=L5GVOFAYi8k
