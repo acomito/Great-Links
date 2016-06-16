@@ -50,6 +50,7 @@ DOM Enlightenment
 http://domenlightenment.com/
 By Cody L.
 
+https://www.digitalocean.com/community/tutorials/an-introduction-to-dns-terminology-components-and-concepts
 https://egghead.io/lessons/javascript-how-to-write-a-javascript-library-pushing-to-github
 https://egghead.io/lessons/javascript-how-to-write-a-javascript-library-setting-up-github?course=how-to-write-an-open-source-javascript-library
 https://www.digitalocean.com/community/tutorials/ssh-essentials-working-with-ssh-servers-clients-and-keys
