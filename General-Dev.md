@@ -71,3 +71,6 @@ https://www.youtube.com/watch?v=L5GVOFAYi8k
 http://www.codelitt.com/blog/my-first-10-minutes-on-a-server-primer-for-securing-ubuntu/
 http://queue.acm.org/detail.cfm?id=2949831
 https://www.youtube.com/watch?v=4AbOV1M7PA4
+
+Philip Roberts: What the heck is the event loop anyway? | JSConf EU 2014
+https://www.youtube.com/watch?v=8aGhZQkoFbQ
