@@ -76,3 +76,14 @@ https://www.sitepoint.com/introduction-gulp-js/
 
 Philip Roberts: What the heck is the event loop anyway? | JSConf EU 2014
 https://www.youtube.com/watch?v=8aGhZQkoFbQ
+
+
+
+
+
+https://egghead.io/lessons/react-react-in-7-minutes
+https://www.sitepoint.com/understanding-es6-modules/
+https://medium.com/@mjackson/universal-javascript-4761051b7ae9#.rj85dohwx
+http://www.2ality.com/2015/02/es6-classes-final.html
+http://www.2ality.com/2014/09/es6-modules-final.html
+http://www.material-ui.com/#/components/auto-complete
