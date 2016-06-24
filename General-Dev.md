@@ -80,7 +80,7 @@ https://www.youtube.com/watch?v=8aGhZQkoFbQ
 
 
 
-
+http://sahatyalkabov.com/create-a-character-voting-app-using-react-nodejs-mongodb-and-socketio/
 https://egghead.io/lessons/react-react-in-7-minutes
 https://www.sitepoint.com/understanding-es6-modules/
 https://medium.com/@mjackson/universal-javascript-4761051b7ae9#.rj85dohwx
