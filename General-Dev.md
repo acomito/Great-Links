@@ -78,8 +78,8 @@ Philip Roberts: What the heck is the event loop anyway? | JSConf EU 2014
 https://www.youtube.com/watch?v=8aGhZQkoFbQ
 
 
-
-
+https://www.learnenough.com/command-line-tutorial
+http://www.catb.org/~esr/faqs/hacker-howto.html
 http://sahatyalkabov.com/create-a-character-voting-app-using-react-nodejs-mongodb-and-socketio/
 https://egghead.io/lessons/react-react-in-7-minutes
 https://www.sitepoint.com/understanding-es6-modules/
