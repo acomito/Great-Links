@@ -78,6 +78,16 @@ Philip Roberts: What the heck is the event loop anyway? | JSConf EU 2014
 https://www.youtube.com/watch?v=8aGhZQkoFbQ
 
 
+Computer Systems: A Programmer’s Perspective
+http://www.groupes.polymtl.ca/inf2610/documentation/ComputerSystemBook.pdf
+
+Principles of Writing Consistent, Idiomatic JavaScript
+https://github.com/rwaldron/idiomatic.js
+
+
+https://www.smashingmagazine.com/2014/01/understanding-javascript-function-prototype-bind/
+
+
 https://www.learnenough.com/command-line-tutorial
 http://www.catb.org/~esr/faqs/hacker-howto.html
 http://sahatyalkabov.com/create-a-character-voting-app-using-react-nodejs-mongodb-and-socketio/
