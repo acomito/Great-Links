@@ -84,7 +84,7 @@ http://www.groupes.polymtl.ca/inf2610/documentation/ComputerSystemBook.pdf
 Principles of Writing Consistent, Idiomatic JavaScript
 https://github.com/rwaldron/idiomatic.js
 
-
+http://jstherightway.org/#getting-started
 https://www.smashingmagazine.com/2014/01/understanding-javascript-function-prototype-bind/
 
 
