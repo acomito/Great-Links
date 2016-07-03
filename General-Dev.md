@@ -5,6 +5,9 @@
 # General Development 
 
 
+
+
+
 ###### Free Books
 
 
@@ -31,6 +34,17 @@
 ###### Blog Posts
 * [20+ Docs and Guides for Front-end Developers (No. 8)](https://www.sitepoint.com/20-docs-guides-front-end-developers-8/) by SitePoint
 * [Facebook fMC 2012: Keynote with Chris Cox](https://www.youtube.com/watch?v=R2kkaDMAJmA) by Facebook | Youtube Video
+
+
+# SEO
+
+https://www.distilled.net/u/?box
+https://moz.com/beginners-guide-to-seo
+http://www.searchengineguide.com/stoney-degeyter/seo-101-everything-you-need-to-know-abou.php
+https://moz.com/blog/how-to-rank
+https://www.searchenginejournal.com/seo-guide/
+http://webdesign.tutsplus.com/series/seo-fundamentals-for-web-designers--webdesign-9715
+
 
 
 
