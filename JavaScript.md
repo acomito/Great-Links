@@ -80,8 +80,12 @@ ___
 
 #### React.js
 
-###### Videos & Video Tutorials 
+###### Videos
+
+
+###### Tutorials (Video Series & Blogs)
 * [React For Everyone](https://www.youtube.com/playlist?list=PLLnpHn493BHFfs3Uj5tvx17mXk4B4ws4p) by LevelUpTuts | Free
+* [The SoundCloud Client in React + Redux](http://www.robinwieruch.de/the-soundcloud-client-in-react-redux/) by robin wieruch
 
 http://reactjsprogram.teachable.com/courses/reactjsfundamentals
 https://facebook.github.io/react/docs/tutorial.html
