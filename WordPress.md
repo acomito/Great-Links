@@ -27,6 +27,17 @@ ___
 
 ##### Plugins
 
+https://wordpress.org/plugins/all-in-one-seo-pack/
+https://yoast.com/wordpress/plugins/seo/
+https://wordpress.org/plugins/broken-link-checker/
+https://wordpress.org/plugins/safe-redirect-manager/
+https://wordpress.org/plugins/wp-super-cache/
+https://wordpress.org/plugins/schema-creator/
+https://wordpress.org/plugins/jetpack/
+
+
+
+
 ###### disqus
 
 
