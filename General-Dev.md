@@ -46,7 +46,7 @@ https://www.searchenginejournal.com/seo-guide/
 http://webdesign.tutsplus.com/series/seo-fundamentals-for-web-designers--webdesign-9715
 https://www.semrush.com/
 https://adwords.google.com/KeywordPlanner
-
+https://schema.org/docs/gs.html
 
 
 # General Back-end Stuff
