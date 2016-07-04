@@ -47,7 +47,7 @@ http://webdesign.tutsplus.com/series/seo-fundamentals-for-web-designers--webdesi
 https://www.semrush.com/
 https://adwords.google.com/KeywordPlanner
 https://schema.org/docs/gs.html
-
+http://schema-creator.org/
 
 # General Back-end Stuff
 
