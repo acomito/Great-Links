@@ -1,0 +1,16 @@
+
+###### Tutorials (Video Series)
+* [React For Everyone](https://www.youtube.com/playlist?list=PLLnpHn493BHFfs3Uj5tvx17mXk4B4ws4p) by LevelUpTuts | Free
+* [Introduction to React.js](http://reactjsprogram.teachable.com/courses/reactjsfundamentals) by reactjsprogram | Free
+
+
+
+###### Tutorials (Blogs)
+* [Passwordless Authentication with React and Auth0](https://medium.com/javascript-scene/passwordless-authentication-with-react-and-auth0-c4cb003c7cde#.ybzgwr4ap)
+* [The SoundCloud Client in React + Redux](http://www.robinwieruch.de/the-soundcloud-client-in-react-redux/) by robin wieruch
+
+
+http://davidmeents.com/
+https://facebook.github.io/react/docs/tutorial.html
+http://www.austinstory.com/what-is-redux/
+___
