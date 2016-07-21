@@ -50,3 +50,9 @@ https://wordpress.org/plugins/jetpack/
 
 
 ___
+
+
+
+https://lamosty.com/2015/09/07/react-single-page-wordpress-rest-api-theme-tutorial/
+https://medium.com/@chrishutchinson/building-a-better-wordpress-4b2a771b4d0b#.5ytyv8wah
+https://developer.wordpress.com/calypso/
