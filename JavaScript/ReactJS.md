@@ -10,6 +10,13 @@
 * [The SoundCloud Client in React + Redux](http://www.robinwieruch.de/the-soundcloud-client-in-react-redux/) by robin wieruch
 
 
+###### Testing React (Blogs)
+* [Getting Started with TDD in React](https://daveceddia.com/getting-started-with-tdd-in-react/) by DAVE CEDDIA
+* [Unit Testing React Components](http://code.tutsplus.com/courses/unit-testing-react-components) tutsplus
+* [Testing React— Mocha, Expect, Enzyme, JSDOM, and Webpack](https://medium.com/@colinlmcdonald/testing-react-example-mocha-expect-enzyme-jsdom-and-webpack-e3eef674f476#.yrvly6nq2) by Colin McDonald
+
+
+
 http://davidmeents.com/
 https://facebook.github.io/react/docs/tutorial.html
 http://www.austinstory.com/what-is-redux/
