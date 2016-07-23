@@ -20,4 +20,5 @@
 http://davidmeents.com/
 https://facebook.github.io/react/docs/tutorial.html
 http://www.austinstory.com/what-is-redux/
+https://github.com/wix/react-native-navigation
 ___
