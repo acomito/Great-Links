@@ -15,6 +15,9 @@
 * [Unit Testing React Components](http://code.tutsplus.com/courses/unit-testing-react-components) tutsplus
 * [Testing React— Mocha, Expect, Enzyme, JSDOM, and Webpack](https://medium.com/@colinlmcdonald/testing-react-example-mocha-expect-enzyme-jsdom-and-webpack-e3eef674f476#.yrvly6nq2) by Colin McDonald
 
+###### React Animations (Blogs)
+* [Animations with ReactTransitionGroup](https://medium.com/@cheapsteak/animations-with-reacttransitiongroup-4972ad7da286#.bi7ygyu3j) by Chang Wang | Medium
+* [Reusing ReactTransitionGroup animations with Higher-order Components](https://medium.com/@cheapsteak/reusing-reacttransitiongroup-animations-with-higher-order-components-1e7043451f91#.9nevkw2cj) by Chang Wang | Medium
 
 
 http://davidmeents.com/
