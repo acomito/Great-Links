@@ -20,6 +20,13 @@
 * [Reusing ReactTransitionGroup animations with Higher-order Components](https://medium.com/@cheapsteak/reusing-reacttransitiongroup-animations-with-higher-order-components-1e7043451f91#.9nevkw2cj) by Chang Wang | Medium
 
 
+https://medium.com/@cheapsteak
+https://medium.com/@cheapsteak/reusing-reacttransitiongroup-animations-with-higher-order-components-1e7043451f91#.7r9ly7epr
+https://medium.com/@dan_abramov/mixins-are-dead-long-live-higher-order-components-94a0d2f9e750#.yt5aiuvqt
+http://jamesknelson.com/announcing-reactjs-tokyo/
+https://medium.com/@nashvail/a-gentle-introduction-to-react-motion-dc50dd9f2459#.dgxnnn7wj
+https://github.com/souporserious/react-motion-ui-pack/issues/23
+https://www.fullstackreact.com/articles/how-to-write-a-google-maps-react-component/
 http://davidmeents.com/
 https://facebook.github.io/react/docs/tutorial.html
 http://www.austinstory.com/what-is-redux/
