@@ -19,6 +19,8 @@
 * [Animations with ReactTransitionGroup](https://medium.com/@cheapsteak/animations-with-reacttransitiongroup-4972ad7da286#.bi7ygyu3j) by Chang Wang | Medium
 * [Reusing ReactTransitionGroup animations with Higher-order Components](https://medium.com/@cheapsteak/reusing-reacttransitiongroup-animations-with-higher-order-components-1e7043451f91#.9nevkw2cj) by Chang Wang | Medium
 
+###### React Animations (Blogs)
+* [Redux without profanity](https://tonyhb.gitbooks.io/redux-without-profanity/content/index.html)
 
 https://medium.com/@cheapsteak
 https://medium.com/@cheapsteak/reusing-reacttransitiongroup-animations-with-higher-order-components-1e7043451f91#.7r9ly7epr
