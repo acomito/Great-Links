@@ -4,5 +4,5 @@
 * [React Native Meteor Boilerplate](https://github.com/spencercarli/react-native-meteor-boilerplate)
 
 
-https://forums.meteor.com/t/react-native-meteor-backend/24897
-https://forums.meteor.com/t/meteor-react-native-integration/17697/58
+* https://forums.meteor.com/t/react-native-meteor-backend/24897
+* https://forums.meteor.com/t/meteor-react-native-integration/17697/58
