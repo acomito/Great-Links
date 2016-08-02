@@ -5,34 +5,34 @@ ___
 
 ## Contents
 
-### Data
+#### Data
 * Big Data, AI, Machine Learning
 * Databases
 * GraphQL
 
 
-### General Development
+####  General Development
 * CSS
 * Deployment
 * General Development Links
 * UI/UX & Design
 
 
-### JavaScript
+####  JavaScript
 * JavaScript
 * React.js
 * React-Native
 
-### Server-Languages
+####  Server-Languages
 * PHP
 * Java
 * Ruby-on-Rails
 * 
 
-### Tools
+####  Tools
 * Build Tools
 * Git
 
-# WordPress
+####  WordPress
 * WordPress Links
 
