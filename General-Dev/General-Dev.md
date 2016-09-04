@@ -103,7 +103,7 @@ https://github.com/rwaldron/idiomatic.js
 http://jstherightway.org/#getting-started
 https://www.smashingmagazine.com/2014/01/understanding-javascript-function-prototype-bind/
 
-
+https://www.sitepoint.com/web-foundations/mime-types-complete-list/
 https://www.learnenough.com/command-line-tutorial
 http://www.catb.org/~esr/faqs/hacker-howto.html
 http://sahatyalkabov.com/create-a-character-voting-app-using-react-nodejs-mongodb-and-socketio/
