@@ -10,3 +10,7 @@
 * https://www.youtube.com/watch?v=QgUoqfi9tnY
 * https://stripe.com/docs/connect/bank-transfers
 * http://dinhle.com/escrow-with-stripe-bank-transfers/
+
+
+#PROMISEPAY
+https://www.youtube.com/watch?v=v9liSCrHyXA
